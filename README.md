@@ -1,6 +1,7 @@
-<h1 align="center">Hey there 👋, I'm Baskaran K</h1>
+<h1 align="center">Hey 👋, I'm Baskaran K</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Software+Engineer+In+Training;Passionate+About+DSA+%26+Web+Dev;Building+Real-World+Projects;Learning+Every+Day" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Software+Engineer+In+Training;Passionate+About+DSA+%26+Web+Dev;Building+Real-World+Projects;Learning+Every+Day" alt="Typing Animation"/>
 </p>
 
 ---
@@ -42,9 +43,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/BaskaranDhanalakshmi" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=BaskaranDhanalakshmi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=BaskaranDhanalakshmi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -54,8 +53,9 @@
 ---
 
 ## 🧩 LeetCode Journey
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=LeetCode+Problem+Solving;Strengthening+DSA+Skills;Daily+Coding+Practice" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=LeetCode+Problem+Solving;Strengthening+DSA+Skills;Daily+Coding+Practice" alt="LeetCode Animation"/>
 </p>
 
 <p align="center">
@@ -78,4 +78,4 @@
 ---
 
 ✨ *Thanks for visiting my GitHub profile!*  
-⭐ *Check out my repositories and projects.*
+⭐ *Feel free to explore my repositories and projects.*
